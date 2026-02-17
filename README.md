@@ -4,7 +4,7 @@ This repository contains my **Financial Report** project, which includes a **Pow
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -16,13 +16,13 @@ This repository contains my **Financial Report** project, which includes a **Pow
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project presents a **financial dashboard** created in **Microsoft Power BI** to analyze key financial indicators. The dashboard enables visualization of financial performance, trends over time, and other insights that help understand the business’s financial health. It is designed for users who want an interactive and visual summary of financial data.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Microsoft Power BI Desktop** – for building and interacting with the financial dashboard.
 - **Power BI Template (.pbit)** – dashboard file that can be opened and customized in Power BI.
@@ -31,7 +31,7 @@ This project presents a **financial dashboard** created in **Microsoft Power BI*
 
 ---
 
-## 📖 Topics Covered
+##  Topics Covered
 
 The project includes the following key areas:
 
@@ -51,7 +51,7 @@ The project includes the following key areas:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download and unzip** the `Financial Dashboard.pbit.zip` file.
 2. **Open the file** in Microsoft Power BI Desktop.
@@ -60,7 +60,7 @@ The project includes the following key areas:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — you are free to explore, modify, and share with attribution.
 
